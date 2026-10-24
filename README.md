@@ -15,3 +15,6 @@ https://www.mediafire.com/file/tyqoxhrmt63nnmv/ServeurMC-Raid.zip/file
 https://www.mediafire.com/file/hbsh025khojk28u/ServeurMC-RaidV2.zip/file
 Avec cette version, vous pouvez la mettre sur Replit.com au format `.zip`, avec un VPN intégré au navigateur, comme Opera. Ouvrez le Shell et tapez `python3 consol.py` ou `python consol.py`.
 Si vous n'activez pas le vpn votre ip public est visible dans le serveur
+
+**Version Replit**
+https://replit.com/@NoahMG/ServeurMC-RaidV2zip 
